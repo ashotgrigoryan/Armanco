@@ -1,0 +1,16 @@
+{
+    "menu_home" : "Գլխավոր" ,
+    "menu_shop" : "Խանութ" ,
+    "menu_collections" : "Հավաքածուներ" ,
+    "menu_blog" : "Բլոգ" ,
+    "menu_contact" : "Կապ",
+    "cr_acc" : "Ստեղծել հաշիվ",
+    "login" : "Մուտք",
+    "first_name" : "Անուն",
+    "last_name" : "Ազգանուն",
+    "email" : "Էլ․ հասցե",
+    "password" : "Գաղտնաբառ",
+    "reg" : "Գրանցվել",
+    "welcome" : "Բարի գալուստ",
+    "page" : "էջ"
+}

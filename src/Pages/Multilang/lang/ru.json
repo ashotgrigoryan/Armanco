@@ -1,0 +1,16 @@
+{
+    "menu_home" : "Главная" ,
+    "menu_shop" : "Магазин" ,
+    "menu_collections" : "Коллекции" ,
+    "menu_blog" : "Блог" ,
+    "menu_contact" : "Контакт",
+    "cr_acc" : "Создать аккаунт",
+    "first_name" : "Имя",
+    "last_name" : "Фамилия",
+    "email" : "Эл. почта",
+    "password" : "Пароль",
+    "login" : "Вход",
+    "reg" : "Регистрация",
+    "welcome" : "Добро пожаловать",
+    "page" : "Страница"
+}

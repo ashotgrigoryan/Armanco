@@ -1,0 +1,16 @@
+{
+    "menu_home" : "Home" ,
+    "menu_shop" : "Shop" ,
+    "menu_collections" : "Collections" ,
+    "menu_blog" : "Blog" ,
+    "menu_contact" : "Contact",
+    "cr_acc" : "Create Account",
+    "login" : "Login",
+    "first_name" : "First Name",
+    "last_name" : "Last Name",
+    "email" : "Email",
+    "password" : "Password",
+    "reg" : "Register",
+    "welcome" : "Welcome",
+    "page" : "Page"
+}
